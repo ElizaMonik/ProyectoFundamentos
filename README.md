@@ -56,11 +56,10 @@ Este sitio simula una empresa de transporte local operando en **Los Rosales, San
 
 ## 🧑‍💻 Autores
 
-- Raúl Faz  
+- Mónica Jara  
 - Steven Vargas  
 - Nicolás Lara  
-- Mónica Jara
-
+  
 ---
 
 © Derechos reservados. Proyecto con fines académicos.
